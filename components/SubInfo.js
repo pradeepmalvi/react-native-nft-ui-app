@@ -92,7 +92,7 @@ export const EndDate = () => {
       <Text
         style={{
           fontFamily: FONTS.regular,
-          fontSize: FONTS.regular,
+          fontSize: SIZES.regular,
           color: COLORS.primary,
         }}
       >
@@ -102,7 +102,7 @@ export const EndDate = () => {
       <Text
         style={{
           fontFamily: FONTS.semiBold,
-          fontSize: FONTS.medium,
+          fontSize: SIZES.medium,
           color: COLORS.primary,
         }}
       >
