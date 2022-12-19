@@ -1,7 +1,7 @@
 import { View, Text, Image, TextInput } from "react-native";
 import { COLORS, SIZES, assets, FONTS } from "../constants";
 
-const HomeHeader = ({onSearch}) => {
+const HomeHeader = ({ onSearch }) => {
   return (
     <View style={{ backgroundColor: COLORS.primary, padding: SIZES.font }}>
       <View
